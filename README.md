@@ -1,5 +1,5 @@
 # BlenderMaterialsToVMAT
-A simple script that converts all scene materials into simple Source 2 VMAT files
+A simple script that converts all scene materials into simple CS2 VMAT files
 
 # Usage
 * Open a new Text Editor window in Blender.
